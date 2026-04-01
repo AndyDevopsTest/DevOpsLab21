@@ -1,0 +1,9 @@
+resources:
+  - frontend-deployment.yaml
+  - backend-deployment.yaml
+
+images:
+  - name: andydevopstest/frontend
+    newTag: v1
+  - name: andydevopstest/backend
+    newTag: v1
