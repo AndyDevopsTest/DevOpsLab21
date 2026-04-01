@@ -4,6 +4,6 @@ resources:
 
 images:
   - name: andydevopstest/frontend
-    newTag: v1
+    newTag: 485e8a1afef0a78467c96ad178fa55b2e515fd25
   - name: andydevopstest/backend
     newTag: v1
